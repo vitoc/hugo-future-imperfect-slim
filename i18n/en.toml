@@ -45,7 +45,7 @@
 [previous_page]
   other = "Previous Page"
 [attribution]
-  other = "Theme <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>forked</a> from <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Statically generated using <a href='https://gohugo.io/' title='{{ .Site.Hugo.Version }}' target='_blank' rel='noopener'>Hugo</a>. <a href='/about/attribution/'>More Attribution</a>"
+  other = "Site theme <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>forked</a> from <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Statically generated using <a href='https://gohugo.io/' title='{{ .Site.Hugo.Version }}' target='_blank' rel='noopener'>Hugo</a>. <a href='/about/attribution/'>More Attribution</a>"
 [comments]
   other = "Comments"
 [say_sth]
